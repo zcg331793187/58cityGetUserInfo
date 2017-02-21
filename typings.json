@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "cheerio": "registry:npm/cheerio#0.20.0+20160422172414",
+    "express": "registry:dt/express#4.0.0+20170118060322",
+    "request": "registry:npm/request#2.69.0+20160428223725"
+  },
+  "globalDependencies": {
+    "node": "registry:dt/node#7.0.0+20170204020307"
+  }
+}
